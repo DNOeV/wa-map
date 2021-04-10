@@ -59,7 +59,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/Documents\/GitHub\/versuch1\/floortileset.png",
+         "image":"Teile\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -72,7 +72,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/..\/Documents\/GitHub\/versuch1\/tilesets_deviant_milkian_1.png",
+         "image":"Teile\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
