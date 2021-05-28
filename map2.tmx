@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="160" height="120" tilewidth="32" tileheight="32" infinite="0" nextlayerid="14" nextobjectid="16">
  <tileset firstgid="1" name="floor_embedded" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="../versuch1/floortileset.png" width="256" height="256"/>
+  <image source="Teile/floortileset.png" width="256" height="256"/>
  </tileset>
  <tileset firstgid="65" name="einrichtung_ebedded" tilewidth="32" tileheight="32" tilecount="256" columns="16">
   <properties>
    <property name="collides" type="bool" value="false"/>
   </properties>
-  <image source="../versuch1/tilesets_deviant_milkian_1.png" width="512" height="512"/>
+  <image source="Teile/tilesets_deviant_milkian_1.png" width="512" height="512"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="false"/>
@@ -1290,7 +1290,7 @@
   </tile>
  </tileset>
  <tileset firstgid="321" name="walls_embedded" tilewidth="32" tileheight="32" tilecount="8" columns="4">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/walls.png" width="128" height="64"/>
+  <image source="Teile/walls.png" width="128" height="64"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -1333,16 +1333,16 @@
   </tile>
  </tileset>
  <tileset firstgid="329" name="doors_embedded" tilewidth="32" tileheight="32" tilecount="8" columns="4">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/doors.png" width="128" height="64"/>
+  <image source="Teile/doors.png" width="128" height="64"/>
  </tileset>
  <tileset firstgid="337" name="moebel" tilewidth="32" tileheight="32" tilecount="256" columns="16">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/moebel.png" width="512" height="512"/>
+  <image source="Teile/moebel.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="593" name="hoersaal" tilewidth="32" tileheight="32" tilecount="36" columns="6">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/hoersaal.png" width="192" height="192"/>
+  <image source="Teile/hoersaal.png" width="192" height="192"/>
  </tileset>
  <tileset firstgid="629" name="walls_2" tilewidth="32" tileheight="32" tilecount="36" columns="6">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/walls_2.png" width="192" height="192"/>
+  <image source="Teile/walls_2.png" width="192" height="192"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -1425,7 +1425,7 @@
   </tile>
  </tileset>
  <tileset firstgid="665" name="doors_2" tilewidth="32" tileheight="32" tilecount="24" columns="4">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/doors_2.png" width="128" height="192"/>
+  <image source="Teile/doors_2.png" width="128" height="192"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -1548,10 +1548,10 @@
   </tile>
  </tileset>
  <tileset firstgid="689" name="bodenbelaege" tilewidth="32" tileheight="32" tilecount="4" columns="2">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/bodenbelaege.png" width="64" height="64"/>
+  <image source="Teile/bodenbelaege.png" width="64" height="64"/>
  </tileset>
  <tileset firstgid="693" name="springbrunnen" tilewidth="32" tileheight="32" tilecount="9" columns="3">
-  <image source="../../../Desktop/DNO/Workadventure/Teile/springbrunnen.png" width="96" height="96"/>
+  <image source="Teile/springbrunnen.png" width="96" height="96"/>
  </tileset>
  <layer id="5" name="start" width="160" height="120">
   <data encoding="csv">
