@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="160" height="120" tilewidth="32" tileheight="32" infinite="0" nextlayerid="16" nextobjectid="16">
  <editorsettings>
-  <export target="../../../Documents/GitHub/wa-map/map2.tmx" format="tmx"/>
+  <export target="map1.tmx" format="tmx"/>
  </editorsettings>
  <tileset firstgid="1" name="floor_embedded" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="../../../Documents/GitHub/versuch1/floortileset.png" width="256" height="256"/>
+  <image source="Teile/floortileset.png" width="256" height="256"/>
  </tileset>
  <tileset firstgid="65" name="einrichtung_ebedded" tilewidth="32" tileheight="32" tilecount="256" columns="16">
   <properties>
    <property name="collides" type="bool" value="false"/>
   </properties>
-  <image source="../../../Documents/GitHub/versuch1/tilesets_deviant_milkian_1.png" width="512" height="512"/>
+  <image source="Teile/tilesets_deviant_milkian_1.png" width="512" height="512"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="false"/>
