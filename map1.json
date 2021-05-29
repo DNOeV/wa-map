@@ -59,7 +59,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/Documents\/GitHub\/versuch1\/floortileset.png",
+         "image":"Teile/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -72,7 +72,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/..\/..\/Documents\/GitHub\/versuch1\/tilesets_deviant_milkian_1.png",
+         "image":"Teile/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -85,7 +85,7 @@
         {
          "columns":4,
          "firstgid":321,
-         "image":"Teile\/walls.png",
+         "image":"Teile/walls.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -171,7 +171,7 @@
         {
          "columns":4,
          "firstgid":329,
-         "image":"Teile\/doors.png",
+         "image":"Teile/doors.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -184,7 +184,7 @@
         {
          "columns":16,
          "firstgid":337,
-         "image":"Teile\/moebel.png",
+         "image":"Teile/moebel.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -197,7 +197,7 @@
         {
          "columns":6,
          "firstgid":593,
-         "image":"Teile\/hoersaal.png",
+         "image":"Teile/hoersaal.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
